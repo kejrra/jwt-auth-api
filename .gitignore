@@ -1,0 +1,5 @@
+#Não deixa subir o .env
+.env
+
+#Não deixa subir o node_modules
+/node_modules
