@@ -7,7 +7,7 @@
     Julio Barros, academico na UFGD em Dourados, Mato Grosso do Sul.
 
 #Instalação
-    Após clonar o projeto basta executar o comando <npm install> ou <npm i> e aguardar o termino da instalação das dependências. 
+    Após clonar o projeto basta executar o comando "npm install" ou "npm i" e aguardar o termino da instalação das dependências. 
 
 #Execução
     Após instalar as dependências basta executar o comando <node app.js> ou <nodemon app.js>, se o nodemon estiver instalado, que a aplicação irá executar na porta 3000. Se a porta 3000 estiver ocupada, basta alterar no arquivo <app.js>.
