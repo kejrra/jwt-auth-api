@@ -18,5 +18,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log('JWT-Auth-API listening on port: '+PORT+'!');
+    console.log(`JWT-Auth-API listening on port: ${PORT}!`);
 });

@@ -3,6 +3,7 @@ const authMeddleware = require('../middlewares/AuthMeddleware');
 
 const router = express.Router();
 
+//Faz com que todas as requisições desse controle passe pelo autenticador
 router.use(authMeddleware);
 
 router.get('/', (req, res) => {
